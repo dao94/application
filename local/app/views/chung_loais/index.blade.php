@@ -21,6 +21,7 @@ Chủng loại sản phẩm
 		</thead>
 		<tbody>
 				<tr>
+			 		<td></td>
 			 		<td></td>   
 					<td></td>
                     <td></td>
