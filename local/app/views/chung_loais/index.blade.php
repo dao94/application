@@ -22,7 +22,7 @@ Chủng loại sản phẩm
 		<tbody>
 				<tr>
 			 		<td></td>
-			 		<td></td>   
+			 		<td></td>
 					<td></td>
                     <td></td>
                     <td></td>
