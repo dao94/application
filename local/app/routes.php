@@ -11,18 +11,4 @@
 |
 */
 //***************************ADMIN**********************************
-Route::get('admin',function() {
-    return View::make('admin/home');
-});
-Route::get('admin/chung_loais',function() {
-  return View::make('chung_loais/index');
-});
 Route::resource('chung_loais', 'Chung_loaisController');
-
-
-
-
-
-
-
-
